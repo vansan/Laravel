@@ -1,0 +1,6 @@
+
+Warning: Module 'openssl' already loaded in Unknown on line 0
+Psy Shell v0.9.6 (PHP 7.2.5 — cli) by Justin Hileman
+PHP Warning:  include(;): failed to open stream: No such file or directory in C:/xampp/htdocs/Laravel/todo/vendor/psy/psysh/src/ExecutionLoop.php on line 48
+
+Exit:  Ctrl+D
